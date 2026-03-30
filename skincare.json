@@ -1,0 +1,23 @@
+{
+  "skincare": {
+    "acne": {
+      "description": "Clearing pores and reducing inflammation",
+      "products": ["Salicylic Acid (BHA)", "Benzoyl Peroxide", "Adapalene"]
+    },
+    "hyperpigmentation": {
+      "description": "Inhibiting melanin production and increasing cell turnover",
+      "products": ["Vitamin C", "Niacinamide", "Tranexamic Acid", "Retinol"]
+    },
+
+    "oily_skin": {
+      "description": "Regulating sebum and maintaining hydration",
+      "products": ["Niacinamide", "Zinc PCA", "Clay (Kaolin/Bentonite)"]
+      
+    },
+    "eczema": {
+      "description": "Repairing the skin barrier and soothing irritation",
+      "products": ["Ceramides", "Colloidal Oatmeal", "Petrolatum"]
+    
+    }
+  }
+}
